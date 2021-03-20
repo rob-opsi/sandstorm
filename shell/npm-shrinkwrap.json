@@ -696,7 +696,7 @@
       "dependencies": {
         "iconv-lite": {
           "version": "0.4.15",
-          "resolved": "http://registry.npmjs.org/iconv-lite/-/iconv-lite-0.4.15.tgz",
+          "resolved": "https://registry.npmjs.org/iconv-lite/-/iconv-lite-0.4.15.tgz",
           "integrity": "sha1-/iZaIYrGpXz+hUkn6dBMGYJe3es="
         }
       }
@@ -816,7 +816,7 @@
         },
         "rimraf": {
           "version": "2.4.5",
-          "resolved": "http://registry.npmjs.org/rimraf/-/rimraf-2.4.5.tgz",
+          "resolved": "https://registry.npmjs.org/rimraf/-/rimraf-2.4.5.tgz",
           "integrity": "sha1-7nEM5dk6j9uFb7Xqj/Di11k0sto=",
           "optional": true,
           "requires": {
@@ -1405,17 +1405,12 @@
       "integrity": "sha1-tSQ9jz7BqjXxNkYFvA0QNuMKtp8="
     },
     "xml-crypto": {
-      "version": "0.0.20",
-      "resolved": "http://registry.npmjs.org/xml-crypto/-/xml-crypto-0.0.20.tgz",
-      "integrity": "sha1-Q9jVNETUaFON4ygg2qJHveXt3HU=",
+      "version": "2.0.0",
+      "resolved": "http://registry.npmjs.org/xml-crypto/-/xml-crypto-2.0.0.tgz",
+      "integrity": "sha512-/a04qr7RpONRZHOxROZ6iIHItdsQQjN3sj8lJkYDDss8tAkEaAs0VrFjb3tlhmS5snQru5lTs9/5ISSMdPDHlg==",
       "requires": {
-        "xpath.js": ">=0.0.3"
-      },
-      "dependencies": {
-        "xmldom": {
-          "version": "git+https://github.com/yaronn/xmldom.git#68768a6a31f55b0737d7beb88807bc80146b2651",
-          "from": "git+https://github.com/yaronn/xmldom.git#68768a6a31f55b0737d7beb88807bc80146b2651"
-        }
+        "xmldom": "0.1.27",
+        "xpath": "0.0.27"
       }
     },
     "xml2js": {
@@ -1436,10 +1431,10 @@
       "resolved": "https://registry.npmjs.org/xmldom/-/xmldom-0.1.27.tgz",
       "integrity": "sha1-1QH5ezvbQDr4757MIFcxh6rawOk="
     },
-    "xpath.js": {
-      "version": "1.1.0",
-      "resolved": "https://registry.npmjs.org/xpath.js/-/xpath.js-1.1.0.tgz",
-      "integrity": "sha512-jg+qkfS4K8E7965sqaUl8mRngXiKb3WZGfONgE18pr03FUQiuSV6G+Ej4tS55B+rIQSFEIw3phdVAQ4pPqNWfQ=="
+    "xpath": {
+      "version": "0.0.27",
+      "resolved": "https://registry.npmjs.org/xpath/-/xpath-0.0.27.tgz",
+      "integrity": "sha512-fg03WRxtkCV6ohClePNAECYsmpKKTv5L8y/X3Dn1hQrec3POx2jHZ/0P2qQ6HvsrU1BmeqXcof3NGGueG6LxwQ=="
     }
   }
 }
