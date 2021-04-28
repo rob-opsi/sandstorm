@@ -696,7 +696,7 @@
       "dependencies": {
         "iconv-lite": {
           "version": "0.4.15",
-          "resolved": "http://registry.npmjs.org/iconv-lite/-/iconv-lite-0.4.15.tgz",
+          "resolved": "https://registry.npmjs.org/iconv-lite/-/iconv-lite-0.4.15.tgz",
           "integrity": "sha1-/iZaIYrGpXz+hUkn6dBMGYJe3es="
         }
       }
@@ -816,7 +816,7 @@
         },
         "rimraf": {
           "version": "2.4.5",
-          "resolved": "http://registry.npmjs.org/rimraf/-/rimraf-2.4.5.tgz",
+          "resolved": "https://registry.npmjs.org/rimraf/-/rimraf-2.4.5.tgz",
           "integrity": "sha1-7nEM5dk6j9uFb7Xqj/Di11k0sto=",
           "optional": true,
           "requires": {
@@ -1432,9 +1432,9 @@
       "integrity": "sha1-aSSGc0ELS6QuGmE2VR0pIjNap3M="
     },
     "xmldom": {
-      "version": "0.1.27",
-      "resolved": "https://registry.npmjs.org/xmldom/-/xmldom-0.1.27.tgz",
-      "integrity": "sha1-1QH5ezvbQDr4757MIFcxh6rawOk="
+      "version": "0.5.0",
+      "resolved": "https://registry.npmjs.org/xmldom/-/xmldom-0.5.0.tgz",
+      "integrity": "sha512-Foaj5FXVzgn7xFzsKeNIde9g6aFBxTPi37iwsno8QvApmtg7KYrr+OPyRHcJF7dud2a5nGRBXK3n0dL62Gf7PA=="
     },
     "xpath.js": {
       "version": "1.1.0",
